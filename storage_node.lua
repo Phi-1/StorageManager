@@ -128,3 +128,5 @@ function main()
         redstone.setOutput(top_piston, false)    
     end
 end
+
+main()
